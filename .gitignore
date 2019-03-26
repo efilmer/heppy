@@ -1,0 +1,9 @@
+/FlatTreeAnalyzer/*
+/FCChhAnalyses/*
+*.pyc
+*.root
+#*
+*~
+*.txt
+*.pck
+bin/*

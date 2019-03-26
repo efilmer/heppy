@@ -1,0 +1,3 @@
+software:
+  heppy: !!python/unicode 'e7722dcb904bcf0768d41869338a71b453c9466e'
+  heppy.FCChhAnalyses: !!python/unicode '9f666a1d569b31b00ec06a98fb6db6dda7b12697'
